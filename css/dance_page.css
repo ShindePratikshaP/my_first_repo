@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Kaushan+Script&family=Lobster&display=swap');
+body{
+    background-color: rgb(250, 249, 250);
+}
+.dance-pg-container{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px 0px #b5e0f3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.title{
+    text-align: center;
+    font-family: 'Lobster', sans-serif;
+    font-size: 60px;
+    color: #f1057b;
+    
+}
+.heading2{
+    text-align:left;
+    color:#f1057b;
+    font-size: 30px;
+    font-family: 'Lobster', sans-serif;
+
+}
+.img-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.img-div{
+        box-shadow: 0 0 10px 5px #b5e0f3;
+        color:#f1057b;
+        text-align: center;
+        width: 330px;
+        height: 330px;
+        padding:15px 15px;
+        margin: 15px 15px;
+}
+img{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 5px;
+}
+.info-div{
+    margin: 10px 10px;
+    width: 500px;
+}
+.heading3{
+    color: #f1057b;
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.heading3-para{
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+    margin: 10px 10px;
+    
+}
+.join{
+    color: #f1057b;
+    font-family: 'Lobster', sans-serif;
+    font-size: 40px;
+    margin: 10px;
+}
+.btn{
+        
+        background-color:#32b8f1;
+        color: #f1057b;
+        height: 30px;
+        width: 130px;
+        margin: 20px;
+        font-size: 20px;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 5px 0px 10px 0px black;
+    }
+.btn:hover{
+    background-color:#f1057b;
+    color: white;
+}
+.btn-div{
+    text-align: center;
+}
