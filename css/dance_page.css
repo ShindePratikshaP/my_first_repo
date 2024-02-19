@@ -73,22 +73,4 @@ img{
     font-size: 40px;
     margin: 10px;
 }
-.btn{
-        
-        background-color:#32b8f1;
-        color: #f1057b;
-        height: 30px;
-        width: 130px;
-        margin: 20px;
-        font-size: 20px;
-        border: none;
-        border-radius: 5px;
-        box-shadow: 5px 0px 10px 0px black;
-    }
-.btn:hover{
-    background-color:#f1057b;
-    color: white;
-}
-.btn-div{
-    text-align: center;
-}
+
