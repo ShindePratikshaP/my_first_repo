@@ -15,9 +15,9 @@ To empower individuals and help them to achieve their goals.
 
 ## How to join our academy
 1. visit our website.  
-2. If you want to know more details about course then click on the ' Bharatanatyam.jpeg '
-   or 'Ballet.jpeg'
-3. For join our classes click on the 'Call Us' button
+2. If you want to know more details about course then click on the `Bharatanatyam.jpeg`
+   or `Ballet.jpeg`
+3. For join our classes click on the `Call Us` button
 
 ## Home Page
 
